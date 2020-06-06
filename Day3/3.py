@@ -3,4 +3,4 @@ f = ''
 for i in s:
     if i not in f:
         f += i
-print(f)
+print("After remove duplicate",f)
